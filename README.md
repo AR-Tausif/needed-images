@@ -13,5 +13,8 @@ create for keep image in github server and use my own projects
 
 ![image](https://user-images.githubusercontent.com/120933222/229017750-54f8b637-4f48-43a0-a702-8941b691ae22.png)
 
-<p>Profiles</p>
+<p>Cover</p>
+
+![image](https://user-images.githubusercontent.com/120933222/229024115-878e5d8c-886a-4f93-b28e-43f6c1f7248f.png)
+
 <p>Profiles</p>
