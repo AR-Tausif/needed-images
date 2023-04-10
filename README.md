@@ -18,3 +18,11 @@ create for keep image in github server and use my own projects
 ![image](https://user-images.githubusercontent.com/120933222/229024115-878e5d8c-886a-4f93-b28e-43f6c1f7248f.png)
 
 <p>Profiles</p>
+
+job list icons pictures <br/>
+
+
+![business 1](https://user-images.githubusercontent.com/120933222/230805385-63cba7e7-667c-49f0-9cf9-58e4f688732f.png)
+![chip 1](https://user-images.githubusercontent.com/120933222/230805387-fbd67aed-261e-4449-971c-0d08485338f9.png)
+![social-media 1](https://user-images.githubusercontent.com/120933222/230805388-204b4640-15c2-4e53-bf6b-ea2d4bfeb1fb.png)
+![accounts 1](https://user-images.githubusercontent.com/120933222/230805389-99a5306c-0bee-4850-a52c-502bb735cc91.png)
