@@ -25,7 +25,8 @@
             "degree": "Bachelor's degree in Computer Science or related field",
             "years of experience": 5
           },
-        "opportunity_type":["remote","full time"],
+        "job_type":"Onsit",
+    "duty_time":"full Time",
         "img_logo":"https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
       },
      {
@@ -54,7 +55,8 @@
             "degree": "Bachelor's degree in Computer Science or related field",
             "years of experience": 5
           },
-        "opportunity_type":["remote","full time"],
+        "job_type":"remote",
+    "duty_time":"full Time",
         "img_logo":"https://i.ibb.co/mJFSCK7/netflix-4-1.png"
       },
      {
@@ -83,7 +85,8 @@
             "degree": "Bachelor's degree in Computer Science or related field",
             "years of experience": 5
           },
-        "opportunity_type":["remote","full time"],
+        "job_type":"remote",
+    "duty_time":"full Time",
         "img_logo":"https://i.ibb.co/nR93F4t/Group-10021.png"
       },
      {
@@ -112,7 +115,8 @@
             "degree": "Bachelor's degree in Computer Science or related field",
             "years of experience": 5
           },
-        "opportunity_type":["remote","full time"],
+        "job_type":"Onsit",
+    "duty_time":"full Time",
         "img_logo":"https://i.ibb.co/10CDv9d/tesla-9-1.png"
       }
     ]
