@@ -1,119 +1,92 @@
 [
-   {
+  {
     "_id": "649dc57250f4d592c07070584",
     "title": "School Management",
     "link": "https://kiddos-baby.web.app/",
     "category": "MERN",
     "img": "https://i.ibb.co/txq66Ph/image.png",
-    "code": [
-      {
-        "clientCode": "https://github.com/AR-Tausif/educa-website.git"
-      },
-      {
-        "serverCode": ""
-      }
-    ],
+    "code": {
+      "clientCode": "https://github.com/AR-Tausif/educa-website.git",
+      "serverCode": ""
+    },
     "technology": "Typescript | Nextjs | Redux toolkit | Shadcn Ui",
     "published_date": "2024-06-03",
     "serial": "",
-    "description": "Educa International crafted of a English medium school management."
+    "description": "Educa International crafted an English medium school management system."
   },
-
-   {
-    "_id": "649dc57250f4d592c0707058",
+  {
+    "_id": "649dc57250f4d592c07070585",
     "title": "EHT Community",
     "link": "https://ehtcommunity.org",
     "category": "static",
     "img": "https://i.ibb.co/vJfvtps/image.png",
-    "code": [
-      {
-        "clientCode": "https://github.com/AR-Tausif/eth-community.git"
-      },
-      {
-        "serverCode": ""
-      }
-    ],
+    "code": {
+      "clientCode": "https://github.com/AR-Tausif/eth-community.git",
+      "serverCode": ""
+    },
     "technology": "Html | Css | Javascript | Jquery",
     "published_date": "2024-02-20",
     "serial": "",
-    "description": "EHT community build for a team of Ethical Hackers"
+    "description": "EHT community built for a team of Ethical Hackers."
   },
-
   {
-    "_id": "649dc57250f4d592c0707058",
+    "_id": "649dc57250f4d592c07070586",
     "title": "Kiddos Baby",
     "link": "https://kiddos-baby.web.app/",
     "category": "MERN",
     "img": "https://i.ibb.co/XYwhg8c/Screenshot-250.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
+    "code": {
+      "clientCode": "",
+      "serverCode": ""
+    },
     "technology": "",
     "published_date": "2023-06-29",
     "serial": "",
-    "description": "A company is seeking a web developer who can create a simple full-stack Toy Marketplace website. You are required to focus on a specific toy category, such as- toy car marketplace."
+    "description": "A company is seeking a web developer who can create a simple full-stack Toy Marketplace website focused on a specific toy category, such as a toy car marketplace."
   },
   {
-    "_id": "649dc64150f4d592c0707059",
+    "_id": "649dc64150f4d592c07070587",
     "title": "Odyssey Corp",
     "link": "https://odyssey-corp.web.app/",
     "category": "MERN",
     "img": "https://i.ibb.co/q0q15j1/Screenshot-249.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
+    "code": {
+      "clientCode": "",
+      "serverCode": ""
+    },
     "technology": "",
     "published_date": "2023-06-29",
     "serial": "",
-    "description": "Summer Camp school that allows students to enroll and learn specific extra-curricular activities discussed in the requirements. The website must be exclusively dedicated to one type of Design School."
+    "description": "Summer Camp school that allows students to enroll and learn specific extra-curricular activities. The website is exclusively dedicated to one type of Design School."
   },
   {
-    "_id": "649dc95550f4d592c070705a",
+    "_id": "649dc95550f4d592c07070588",
     "title": "Skill Curve",
     "link": "https://skill-curves.netlify.app/",
     "category": "SPA",
     "img": "https://i.ibb.co/dDh3tpM/Screenshot-252.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
+    "code": {
+      "clientCode": "",
+      "serverCode": ""
+    },
     "technology": "",
     "published_date": "2023-06-29",
     "serial": "",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+    "description": "Skill Curve is a platform designed to help users enhance their skills in various disciplines."
   },
   {
-    "_id": "649dc9a750f4d592c070705b",
+    "_id": "649dc9a750f4d592c07070589",
     "title": "AI Univers",
     "link": "https://amazing-growth.surge.sh/",
     "category": "SPA",
     "img": "https://i.ibb.co/5ccWBnr/Screenshot-257.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
+    "code": {
+      "clientCode": "",
+      "serverCode": ""
+    },
     "technology": "",
     "published_date": "2023-06-29",
     "serial": "",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
-  },
-  
+    "description": "AI Univers is a website dedicated to advancements in artificial intelligence and machine learning."
+  }
 ]
