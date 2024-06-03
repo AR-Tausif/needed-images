@@ -1,23 +1,44 @@
 [
-  {
-    "_id": "649d63a2249977a00ab4f79d",
-    "title": "Talent Connect",
-    "link": "https://talentconnect.netlify.app/",
+   {
+    "_id": "649dc57250f4d592c07070584",
+    "title": "School Management",
+    "link": "https://kiddos-baby.web.app/",
     "category": "MERN",
-    "img": "https://i.ibb.co/txLg6T1/image.png",
+    "img": "https://i.ibb.co/txq66Ph/image.png",
     "code": [
       {
-        "clientCode": "https://github.com/AR-Tausif/talent-connect"
+        "clientCode": "https://github.com/AR-Tausif/educa-website.git"
       },
       {
         "serverCode": ""
       }
     ],
-    "technology": "",
-    "published_date": "2023-06-29",
-    "serial": "1",
-    "description": "Welcome to TalentConnect, a platform for connecting talented individuals with exciting job opportunities in the programming and tech industry."
+    "technology": "Typescript | Nextjs | Redux toolkit | Shadcn Ui",
+    "published_date": "2024-06-03",
+    "serial": "",
+    "description": "Educa International crafted of a English medium school management."
   },
+
+   {
+    "_id": "649dc57250f4d592c0707058",
+    "title": "EHT Community",
+    "link": "https://ehtcommunity.org",
+    "category": "static",
+    "img": "https://i.ibb.co/vJfvtps/image.png",
+    "code": [
+      {
+        "clientCode": "https://github.com/AR-Tausif/eth-community.git"
+      },
+      {
+        "serverCode": ""
+      }
+    ],
+    "technology": "Html | Css | Javascript | Jquery",
+    "published_date": "2024-02-20",
+    "serial": "",
+    "description": "EHT community build for a team of Ethical Hackers"
+  },
+
   {
     "_id": "649dc57250f4d592c0707058",
     "title": "Kiddos Baby",
@@ -94,80 +115,5 @@
     "serial": "",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
   },
-  {
-    "_id": "649dc9f350f4d592c070705c",
-    "title": "Expresso Emperio",
-    "link": "https://espresso-emporiumtr.netlify.app/",
-    "category": "SPA",
-    "img": "https://i.ibb.co/rmGcpRM/Screenshot-254.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
-    "technology": "",
-    "published_date": "2023-06-29",
-    "serial": "",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
-  },
-  {
-    "_id": "649dca5850f4d592c070705d",
-    "title": "Bistro Boss",
-    "link": "https://bistro-boss-tr.netlify.app/",
-    "category": "SPA",
-    "img": "https://i.ibb.co/9bNdM9B/Screenshot-255.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
-    "technology": "",
-    "published_date": "2023-06-29",
-    "serial": "",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
-  },
-  {
-    "_id": "649dcaa750f4d592c070705e",
-    "title": "Chef Recipe",
-    "link": "",
-    "category": "SPA",
-    "img": "https://i.ibb.co/WfnHzXw/Screenshot-253.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
-    "technology": "",
-    "published_date": "2023-06-29",
-    "serial": "",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
-  },
-  {
-    "_id": "649dcb0650f4d592c070705f",
-    "title": "Legal House",
-    "link": "https://ph-assignment03.netlify.app/",
-    "category": "SPA",
-    "img": "https://i.ibb.co/RpyfPSW/Screenshot-256.png",
-    "code": [
-      {
-        "clientCode": ""
-      },
-      {
-        "serverCode": ""
-      }
-    ],
-    "technology": "",
-    "published_date": "2023-06-29",
-    "serial": "",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
-  }
+  
 ]
